@@ -152,3 +152,7 @@ Se for a primeira vez que estás a fazer o push, pode ser necessário definir o 
 - `git push -u origin master`
 
 Agora já podes começar a usar o Git para gerir os teus projetos de forma eficiente!
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
+
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2FGIT_Tutorial.json&style=flat-square&labelColor=black&color=blue)
